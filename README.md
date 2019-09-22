@@ -15,5 +15,5 @@ add this file path to the scripts array in angular.json
 ```
 add this file path to the styles array in angular.json
 ```
-./node_modules/alertifyjs/build/css/alertify.min.css
+"./node_modules/alertifyjs/build/css/alertify.min.css"
 ```
